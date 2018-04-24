@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//python/wlanthermo/__init__.py=utf-8
+encoding//python/wlanthermo/channels/__init__.py=utf-8
+encoding//python/wlanthermo/database/tables.py=utf-8
+encoding//python/wlanthermo/modules/__init__.py=utf-8
+encoding//python/wlanthermo/modules/fake/__init__.py=utf-8
+encoding//python/wlanthermo/modules/mcp3208/__init__.py=utf-8
+encoding//python/wlanthermo/sensors/__init__.py=utf-8
+encoding//python/wlanthermo/sensors/sensor_types.py=utf-8
+encoding//python/wlanthermo/settings/__init__.py=utf-8
+encoding//python/wlanthermo/version.py=utf-8
+encoding//python/wlanthermo/website/__init__.py=utf-8
